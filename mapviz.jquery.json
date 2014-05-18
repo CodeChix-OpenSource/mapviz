@@ -1,0 +1,39 @@
+{
+    "name": "mapviz",
+    "title": "jQuery mapviz",
+    "description": "jQuery plugin to vizualize given data on a map in a few lines of javascript",
+    "keywords": [
+        "map",
+        "vizualization",
+        "d3"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "codechix.org"
+    },
+    "maintainers": [
+        {
+            "name": "Liz Hurley",
+            "email": "ehurley@heraconsulting.com"
+        },        {
+            "name": "Rupa Dachere",
+            "email": "organizers@codechix.org"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "GNU AFFERO GENERAL PUBLIC LICENSE",
+            "url": "https://github.com/CodeChix-OpenSource/mapviz/blob/master/LICENSE.txt"
+        }
+    ],
+    "bugs": "https://github.com/CodeChix-OpenSource/mapviz/issues",
+    "homepage": "https://github.com/CodeChix-OpenSource/mapviz",
+    "docs": "https://github.com/CodeChix-OpenSource/mapviz",
+    "download": "https://github.com/CodeChix-OpenSource/mapviz",
+    "dependencies": {
+        "jquery": ">=1.10",
+        "underscore": ">=1.6",
+        "d3": ">=3.0",
+        "topojson": ">=1.0"
+    }
+}
